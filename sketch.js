@@ -54,7 +54,7 @@ function setup() {
    
    
     
-background1=createSprite(width/2,height/2.7 )
+background1=createSprite(width/2,height/2.7, windowWidth, height-10 )
 
 background1.addImage(backgroundImg)
 
